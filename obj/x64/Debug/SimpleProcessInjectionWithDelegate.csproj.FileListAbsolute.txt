@@ -1,0 +1,8 @@
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\bin\x64\Debug\SimpleProcessInjectionWithDelegate.exe.config
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\bin\x64\Debug\SimpleProcessInjectionWithDelegate.exe
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\bin\x64\Debug\SimpleProcessInjectionWithDelegate.pdb
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\obj\x64\Debug\SimpleProcessInjectionWithDelegate.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\obj\x64\Debug\SimpleProcessInjectionWithDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\obj\x64\Debug\SimpleProcessInjectionWithDelegate.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\obj\x64\Debug\SimpleProcessInjectionWithDelegate.exe
+C:\Users\smoky\Source\Repos\SimpleProcessInjectionWithDelegate\obj\x64\Debug\SimpleProcessInjectionWithDelegate.pdb
